@@ -60,13 +60,13 @@ h3 {
 	margin-right: 20px;
 	background-image:url('../img/ricepaper_v3.png');
 	opacity: 0.9;
-	padding: 0;
 }
 
 header {
 	padding: 1em;
 	background-color: #FA5A0F;
 	border-bottom: 5px;
+	border-bottom-style: solid;
 	border-bottom-color:#EA4A00;
 	color: #FFFFFF;
 	position: relative;
@@ -85,7 +85,6 @@ header {
 
 #menu {
 	padding: 1em;
-	margin: 0;
 	background-color: rgba(207,205,140,.5);
 }
 
